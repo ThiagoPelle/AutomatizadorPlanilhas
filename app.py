@@ -1,4 +1,4 @@
-from openpyxl import load_workbook
+from openpyxl import load_workbook,Workbook
 
 planilha_vendas = load_workbook('vendas_carros.xlsx')
 pagina_vendas = planilha_vendas['Sheet1']

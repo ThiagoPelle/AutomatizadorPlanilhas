@@ -1,0 +1,4 @@
+Fornecedor,Descrição,Valor,Data-de-Vencimento,Status
+LojaW,Compra de papel A4,23.0,2025-2-12,pago
+Consutoria F,Serviço de consutoria,245.0,2025-3-11,pendente
+Fornecedor B,Compra de móveis,322.0,2025-5-24,pago
