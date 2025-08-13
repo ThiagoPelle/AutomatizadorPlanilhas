@@ -4,11 +4,12 @@ Ela é amplamente usada para automação de planilhas, análise de dados e gera�
 
 ## Instalação
 
-```pip install openpyxl```
+A instalção é feita no *Windows*, no terminal da sua maquina.
+
+`pip install openpyxl`
 
  ### 📌Exemplo Rápido
 
-```markdown
 ```python
 from openpyxl import Workbook
 
