@@ -1,8 +1,9 @@
 # Automatizador_De_Planilhas
+
+## Utilizando **openpyxl**
+
 O *openpyxl* é uma biblioteca Python utilizada para **ler, criar e modificar arquivos do Excel no formato .xlsx**
 Ela é amplamente usada para automação de planilhas, análise de dados e geração de relatórios sem precisar abrir o Excel manualmente.
-
-## Instalação
 
 A instalção é feita no *Windows*, no terminal da sua maquina.
 
