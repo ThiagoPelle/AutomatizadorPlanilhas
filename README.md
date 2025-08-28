@@ -30,6 +30,8 @@ wb.save("planilha_vendas.xlsx")
 ```
 ```
 
+📌 Tópicos Importantes do Openpyxl
+
 
 🔹 Criar e salvar planilhas
 
