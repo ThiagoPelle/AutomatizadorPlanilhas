@@ -29,3 +29,40 @@ sheet.append(["Mouse", 76.80])
 wb.save("planilha_vendas.xlsx")
 ```
 ```
+
+
+🔹 Criar e salvar planilhas
+
+Criar um arquivo novo com Workbook()
+
+Salvar em .xlsx
+
+
+🔹 Abrir e ler arquivos existentes
+
+Usar load_workbook() para carregar planilhas
+
+Ler valores de células
+
+
+🔹 Manipulação de células
+
+Escrever valores em células: ws['A1'] = "Texto"
+
+Ler valores: valor = ws['A1'].value
+
+Usar coordenadas de linha e coluna: ws.cell(row=1, column=1)
+
+
+🔹 Percorrer linhas e colunas
+
+Iterar com iter_rows() e iter_cols()
+
+Muito útil para ler grandes volumes de dados
+
+
+🔹 Formatar células
+
+Alterar fontes, tamanhos, cores
+
+Aplicar estilos de célula (Font, PatternFill, Alignment)
